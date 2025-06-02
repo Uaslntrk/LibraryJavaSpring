@@ -1,0 +1,27 @@
+-- DROP FUNCTIONS TO DELETE TABLES --
+
+DROP TABLE Cart
+
+DROP TABLE Rent
+
+DROP TABLE Donation
+
+DROP TABLE Place
+
+DROP TABLE Bookshelf
+
+DROP TABLE Category
+
+DROP TABLE Genre
+
+DROP TABLE BookDetail
+
+DROP TABLE Book
+
+DROP TABLE Librarian
+
+DROP TABLE Reader
+
+DROP TABLE Person
+
+DROP TABLE Roles
